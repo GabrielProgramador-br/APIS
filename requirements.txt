@@ -1,0 +1,10 @@
+Flask
+pytesseract
+pdf2image
+Pillow
+sentence-transformers
+scikit-learn
+openai==0.28.1
+numpy>=1.23,<2.0
+pydantic==1.10
+python-dotenv
